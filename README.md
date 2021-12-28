@@ -24,11 +24,10 @@ USER LOGIN:
 Username: admin@gmail.com
 Password: 1234
 
-DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
-WITHOUT THE DATABASE THE PROJECT WON'T RUN.
-
 >>For the quick understanding on application, please visit https://www.youtube.com/watch?v=wGdR0sLIefs
->>
+>>To view the user interfaces without downloading files visit https://github.com/dilani123/E-Commerce-web-application/tree/main/ui
+
+
 #THANK YOU 
 
 
